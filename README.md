@@ -2,11 +2,11 @@
 
 <h1 align="center">Element Hall | Launcher</h1>
 
-<p align="center">Launcher multi-versions avec le modpack moddé unique du serveur Element Hall.</p>
+<p align="center">Launcher multi-versions avec le modpack moddé unique du serveur Element Hall intégré.</p>
 
 ![Screenshot 1](https://elementhall.fr/src/img/bg-cleared.png)
 
-## Features
+## Capacités
 
 * 🔒 Gestion partielle des comptes.
   * Seul les comptes Mojang sont actuellement pris en charge (Les comptes Microsft seront pris en charge dans le futur).
@@ -23,7 +23,7 @@
 
 #### Besoin d'aide? [Regardez sur notre wiki](https://elementhall.fr/wiki) ou rejoignez notre [Discord](https://discord.gg/FZGcvYD).
 
-## Downloads
+## Téléchargements
 
 Vous pouvez télécharger le launcher depuis le site officiel [Element Hall | Download](https://elementhall.fr/download)
 
